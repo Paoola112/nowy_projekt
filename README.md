@@ -1,6 +1,6 @@
 # Git_Nauka
-Projekt do nauki Gita
+Projekt do nauki Gita i początki Pythona
 
-ZSxasdasdfasda
-abdc0dkdfk
-asssddd
+
+
+
